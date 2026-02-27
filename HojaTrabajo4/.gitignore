@@ -1,4 +1,12 @@
+# Eclipse
 bin/
+.project
+.classpath
+.settings/
 .metadata/
+
+# Java
 *.class
+
+# OS
 desktop.ini
