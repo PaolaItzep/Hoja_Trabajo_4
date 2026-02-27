@@ -1,1 +1,4 @@
+bin/
+.metadata/
+*.class
 desktop.ini
