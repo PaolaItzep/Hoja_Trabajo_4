@@ -43,7 +43,7 @@ Resultado:
 
 ---
 
-## 🏗 Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 ###  ADT Stack
 
@@ -167,7 +167,7 @@ La arquitectura modular permite cambiar dinámicamente la implementación intern
 
 ---
 
-## 👩‍💻 Autor PAOLA ITZEP MERIDA
+##  Autor PAOLA ITZEP MERIDA
 
 Paola Itzep  
 Hoja de Trabajo 4  
